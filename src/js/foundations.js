@@ -1,5 +1,5 @@
 // URL de la API que deseas consumir
-const baseUrl = "http://127.0.0.1:8000";
+const baseUrl = "http://192.168.20.16:8000";
 
 const tablaFoundations = document.getElementById("table-foundations");
 const tbody = tablaFoundations.querySelector("tbody");
